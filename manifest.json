@@ -1,0 +1,7 @@
+{
+  "name": "progressive-reddit-app",
+  "short_name": "progressive-reddit-app",
+  "description": "Reddit PWA",
+  "start_url": "/",
+  "display": "standalone"
+}
